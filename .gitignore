@@ -1,0 +1,13 @@
+# node modules folder
+
+/node-modules
+
+# VS Files
+
+/.vs-code
+/vs-code
+
+.DS-store
+
+.env
+.node-env
